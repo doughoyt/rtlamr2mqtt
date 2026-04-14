@@ -1,5 +1,13 @@
 # CHANGELOG
 
+### 2026.4.3
+
+Set rtlamr unique to false
+
+### 2026.4.2
+
+Why is the version number in so many places?
+
 ### 2025.6.6
 
 One of the main causes of problems has been addresses in this release: Non-blocking readings!

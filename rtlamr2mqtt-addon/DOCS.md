@@ -2,6 +2,10 @@
 
 ## Updates:
 
+**2026.4.3**
+
+rtlamr unique setting
+
 **2026.4.2**
 
 - Fix DEBUG logging

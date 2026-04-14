@@ -107,7 +107,7 @@ def load_config(config_path=None):
 
     # Custom parameters section
     custom_parameters['rtltcp'] = str(custom_parameters.get('rtltcp', '-s 2048000'))
-    custom_parameters['rtlamr'] = str(custom_parameters.get('rtlamr', '-unique=true'))
+    custom_parameters['rtlamr'] = str(custom_parameters.get('rtlamr', '-unique=false'))
 
     # Convert meters to a dictionary with IDs as keys
     meters = {}
