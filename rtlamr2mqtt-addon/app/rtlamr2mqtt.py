@@ -207,7 +207,7 @@ def start_rtlamr(config):
             if 'GainCount:' in rtlamr_output:
                 rtlamr_is_ready = True
                 if LOG_LEVEL >= 3:
-                    logger.info('RTLAMR has started!')
+                    logger.info('My custom RTLAMR has started!')
         # Check rtl_tcp status
         rtlamr.poll()
         if rtlamr.returncode is not None:
