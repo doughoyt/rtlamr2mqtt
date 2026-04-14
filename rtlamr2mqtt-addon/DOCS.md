@@ -2,6 +2,10 @@
 
 ## Updates:
 
+**2026.4.2**
+
+- Fix DEBUG logging
+
 **2026.4.1**
 
 My custom code
